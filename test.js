@@ -9,4 +9,5 @@ async function logJSONData() {
     }
   }
   
-  logJSONData();
+//   logJSONData();
+module.exports= {logJSONData}
